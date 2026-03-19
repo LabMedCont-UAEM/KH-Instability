@@ -6,3 +6,5 @@ We run it on conda, library needed:
 -Numpy (for trigonometric functions)
 -Matplotlib (for graphs)
 -csv (for saving)
+
+Codes from our paper entitled "Electromagnetically generated Kelvin-Helmholtz instability in a narrow channel"
